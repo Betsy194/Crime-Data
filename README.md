@@ -13,6 +13,7 @@ This Crime data of crime incidents reported in Los Angeles from 2022 to Present.
 
 
 
+
 From the Image from the Piechart we found out:
 * VEHICLE STOLEN: This had the highest Crime Rate
 * BATTERY SIMPLE ASSAULT : This was the second highest Crime Rate

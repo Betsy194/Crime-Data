@@ -8,6 +8,8 @@ This Crime data of crime incidents reported in Los Angeles from 2022 to Present.
 
 
 
+![piechart](https://github.com/Betsy194/Crime-Data/assets/70201662/531603dd-d54b-4051-9126-527d6081d1da)
+
 
 
 
